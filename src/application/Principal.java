@@ -5,8 +5,15 @@ import java.util.List;
 import dao.ContatoDao;
 import entities.Contato;
 
+/**
+ * @author José Augusto Klaumann
+ * @version 1.0
+ */
 public class Principal {
 
+	/**
+	 * @param args Classe que roda os testes de crud do contato 
+	 */
 	public static void main(String[] args) {
 		
 		
