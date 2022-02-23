@@ -1,5 +1,5 @@
 # Hibernate
-- Alteracoes que devem ser alteradas no arquivo .xml: 
+- Alteracoes que devem ser feitas no arquivo .xml: 
 1. name;
 2. Qual o banco utilizado, numero da porta, e nome da tabela
   <property name="hibernate.connection.url" value="jdbc:MySql://localhost:3306/coursejdbc"/>
